@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Chichen Itza",
+    "path": "chichen-itza",
+    "color": "#def4fc",
+    "content": "Chichen Itza was a large pre-Columbian city built by the Maya people of the Terminal Classic period. The archeological site is located in Tinúm Municipality, Yucatán State, Mexico.",
+    "source": "https://en.wikipedia.org/wiki/Chichen_Itza",
+    "visitors": "2,300,000",
+    "year": "AD 600",
+    "location": "Yucatán, Mexico",
+    "latitude": "20.678333",
+    "longitude": "-88.568889"
+  },
+  {
+    "name": "Christ The Redeemer",
+    "path": "christ-the-redeemer",
+    "color": "#f7cc7f",
+    "content": "Christ the Redeemer is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil, created by French sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa, in collaboration with French engineer Albert Caquot.",
+    "source": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)",
+    "visitors": "2,000,000",
+    "year": "AD 1931",
+    "location": "Rio de Janeiro, Brazil",
+    "latitude": "-22.9510",
+    "longitude": "-43.2065"
+  },
+  {
+    "name": "Colosseum",
+    "path": "colosseum",
+    "color": "#545bfe",
+    "content": "The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today, despite its age.",
+    "source": "https://en.wikipedia.org/wiki/Colosseum",
+    "visitors": "7,600,000",
+    "year": "AD 80",
+    "location": "Rome, Italy",
+    "latitude": "41.890251",
+    "longitude": "12.492373"
+  },
+  {
+    "name": "Great Wall of China",
+    "path": "great-wall-of-china",
+    "color": "#ff6a45",
+    "content": "The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China as protection against various nomadic groups from the Eurasian Steppe.",
+    "source": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+    "visitors": "10,000,000",
+    "year": "700 BC",
+    "location": "China",
+    "latitude": "40.431908",
+    "longitude": "116.570374"
+  },
+  {
+    "name": "Machu Picchu",
+    "path": "machu-picchu",
+    "color": "#ecad7a",
+    "content": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a 2,430-meter (7,970 ft) mountain range. It is located in the Machupicchu District within Urubamba Province above the Sacred Valley, which is 80 kilometers (50 mi) northwest of Cusco.",
+    "source": "https://en.wikipedia.org/wiki/Machu_Picchu",
+    "visitors": "1,500,000",
+    "year": "AD 1450",
+    "location": "Cuzco Region, Peru",
+    "latitude": "-13.163068",
+    "longitude": "-72.545128"
+  },
+  {
+    "name": "Petra",
+    "path": "petra",
+    "color": "#fccb6b",
+    "content": "Petra is an historic and archaeological city in southern Jordan. It is adjacent to the mountain of Jabal Al-Madbah, in a basin surrounded by mountains forming the eastern flank of the Arabah valley running from the Dead Sea to the Gulf of Aqaba.",
+    "source": "https://en.wikipedia.org/wiki/Petra",
+    "visitors": "1,135,300",
+    "year": "312 BC",
+    "location": "Ma'an, Jordan",
+    "latitude": "30.328960",
+    "longitude": "35.444832"
+  },
+  {
+    "name": "Taj Mahal",
+    "path": "taj-mahal",
+    "color": "#65f0d5",
+    "content": "The Taj Mahal is an Islamic ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1631 by the Mughal emperor Shah Jahan (r. 1628–1658) to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.",
+    "source": "https://en.wikipedia.org/wiki/Taj_Mahal",
+    "visitors": "7,000,000",
+    "year": "AD 1643",
+    "location": "Agra, India",
+    "latitude": "27.173891",
+    "longitude": "78.042068"
+  },
+  {
+    "name": "Giza Pyramids",
+    "path": "giza-pyramids",
+    "color": "#497efa",
+    "content": "The Great Pyramid of Giza, largest and oldest of the three pyramids at the Giza Necropolis in Egypt and the only surviving of the original Seven Wonders of the Ancient World. All were built during the Fourth Dynasty of the Old Kingdom of Ancient Egypt, between 2600 and 2500 BC.",
+    "source": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+    "visitors": "13,600,000",
+    "year": "2560 BC",
+    "location": "Giza Necropolis, Egypt",
+    "latitude": "29.976480",
+    "longitude": "31.131302"
+  }
+  
+]
