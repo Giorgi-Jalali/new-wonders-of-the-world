@@ -19,8 +19,8 @@
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/Giorgi-Jalali/new-wonders-of-the-world/tree/master)
-- Live Site URL: [GitHub Pages](http://giorgi-jalali.github.io/new-wonders-of-the-world)
+- Solution URL: [GitHub](https://github.com/Giorgi-Jalali/new-wonders-of-the-world)
+- Live Site URL: [GitHub Pages](https://new-wonders-of-the-world.vercel.app/)
 
 ## My process
 
@@ -30,7 +30,7 @@
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [React-Router] (https://reactrouter.com/en/main) - for pages
+- [React Router] (https://reactrouter.com/en/main) - for pages
 - [TypeScript](https://www.typescriptlang.org/) - for types
 - [Styled Components](https://styled-components.com/) - for styles
 - [LeafletJS](https://leafletjs.com/) - for Map
