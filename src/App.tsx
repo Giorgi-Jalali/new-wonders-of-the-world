@@ -1,5 +1,5 @@
 import {
-  createBrowserRouter,
+  createHashRouter,
   createRoutesFromElements,
   RouterProvider,
   Route,
@@ -25,7 +25,7 @@ import PetraLocation from "./locationPages/PetraLocation";
 import TajMahal from "./pages/TajMahal";
 import TajMahalLocation from "./locationPages/TajMahalLocation";
 
-const router = createBrowserRouter(
+const router = createHashRouter(
   createRoutesFromElements(
     <Route path="/" element={<Root />}>
       <Route index element={<HomePage />} />
