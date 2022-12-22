@@ -76,8 +76,9 @@ const GlobalStyle = createGlobalStyle`
     align-items: center;
     margin: 0 auto;
     @media (min-width: 1200px) {
-      min-width: 99vw;
+      min-width: 100%;
       min-height: 99vh;
+      overflow-x: hidden;
     }
   }
 
